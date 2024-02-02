@@ -2,14 +2,14 @@ const formInputs = [
   {
     label: "Token Name",
     id: "tokenName",
-    placeholder: "Token Name eg: Areon",
+    placeholder: "Token Name eg: Ethereum",
     isRequired: true,
     inputType: "text"
   },
   {
     label: "Token Symbol",
     id: "tokenSymbol",
-    placeholder: "Token Symbol eg: AREA",
+    placeholder: "Token Symbol eg: ETH",
     isRequired: true,
     inputType: "text"
   },
